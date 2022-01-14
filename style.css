@@ -42,14 +42,15 @@ li {
 .content {
   margin-top: 25px;
   background-color: aliceblue;
-  display: none;
+  display: flex;
+  align-items: center;
 }
 
 .description {
   padding: 0px 30px;
 }
 
-.showContent {
+/* .showContent {
   display: flex;
   align-items: center;
-}
+} */
